@@ -1,0 +1,7 @@
+print(22/7)
+print(3 + 2 * 6)
+print((3 + 2) * 6)
+print('Automate' + 'Python') 
+print('python\n' * 3)
+print('Hello' * 3 + '!')
+print('Hello' + '!' *3)

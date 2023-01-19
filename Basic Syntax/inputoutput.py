@@ -1,0 +1,5 @@
+print('What is your name?')
+myname = input()
+print('Hello ' + myname + ' Its nice to meet you!')
+print('The length of your name is : ', (len(myname)))
+print(len(myname))
