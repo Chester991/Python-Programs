@@ -1,0 +1,2 @@
+this text was written inside vscode without giving it a directory or location
+this text was appended
